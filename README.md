@@ -1,2 +1,0 @@
-# cv
-Mon Curriculum vitae
